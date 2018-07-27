@@ -2,7 +2,7 @@
 
 ## Getting started
 
-![Screen1](https://github.com/lauraleonhardt/SmartHome-App-demo.github.oi/blob/8ca5b98ca560b61282af579aef784b3179a93d4b/AR.png?raw=true)
+![Screen1]({{site.url}}{{site.baseurl}}https://github.com/lauraleonhardt/SmartHome-App-demo.github.oi/blob/8ca5b98ca560b61282af579aef784b3179a93d4b/AR.png?raw=true)
 
 ## Supported Control devices
 ## The App
