@@ -1,7 +1,7 @@
 # User's Guide
 
 ## Getting started
-![Screen1]({{site.url}}{{site.baseurl}}https://www.qivicon.com/assets/Products/_resampled/SetSize500500-2018-QIVICON-Home-Base-2.0.png)   
+![Screen1](https://www.qivicon.com/assets/Products/_resampled/SetSize500500-2018-QIVICON-Home-Base-2.0.png)   
 
 ![Screen1]({{site.url}}{{site.baseurl}}https://github.com/lauraleonhardt/SmartHome-App-demo.github.oi/blob/8ca5b98ca560b61282af579aef784b3179a93d4b/AR.png?raw=true)
 
