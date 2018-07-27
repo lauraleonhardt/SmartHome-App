@@ -2,7 +2,7 @@
 
 ## Getting started
 
-![getting started](https://github.com/lauraleonhardt/SmartHome-App-demo.github.oi/blob/master/AR.png)
+
 
 ## Supported Control devices
 ## The App
