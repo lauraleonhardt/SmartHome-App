@@ -1,7 +1,7 @@
 # User's Guide
 
 ## Getting started
-![Screen1]({{site.url}}{{site.baseurl}}/github.com/lauraleonhardt/SmartHome-App-demo.github.oi/blob/master/AR.png)
+![Screen1]({{site.url}}{{site.baseurl}}https://www.qivicon.com/de/produkte/produktinformationen/qivicon-home-base-2-0/)
 
 
 ## Supported Control devices
