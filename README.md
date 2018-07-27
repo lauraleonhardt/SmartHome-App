@@ -1,7 +1,7 @@
 # User's Guide
 
 ## Getting started
-![Screen1](https://www.qivicon.com/assets/Products/_resampled/SetSize500500-2018-QIVICON-Home-Base-2.0.png)
+![Screen1]({{site.url}}{{site.baseurl}}https://www.qivicon.com/assets/Products/_resampled/SetSize500500-2018-QIVICON-Home-Base-2.0.png)
 
 
 ## Supported Control devices
