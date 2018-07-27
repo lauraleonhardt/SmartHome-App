@@ -1,7 +1,7 @@
 # User's Guide
 
 ## Getting started
-![Screen1]({{site.url}}{{site.baseurl}} https://github.com/lauraleonhardt/SmartHome-App-demo.github.oi/blob/master/AR.png)
+![Screen1]({{site.url}}{{site.baseurl}}/github.com/lauraleonhardt/SmartHome-App-demo.github.oi/blob/master/AR.png)
 
 
 ## Supported Control devices
