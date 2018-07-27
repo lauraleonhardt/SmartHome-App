@@ -4,6 +4,7 @@
 ## Supported Control devices
 ## The App
 * Device pairing
+
 [Qivicon supported devices](https://www.qivicon.com/assets/Products/Uploads/QIVICON-Kompatibilitaetsliste.pdf)
 * Dashboard
 
