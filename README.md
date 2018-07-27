@@ -1,7 +1,7 @@
 # User's Guide
 
 ## Getting started
-![Screen1]({{site.url}}{{site.baseurl}}https://www.qivicon.com/assets/Products/_resampled/SetSize500500-2018-QIVICON-Home-Base-2.0.png)
+![Screen1]({{site.url}}{{site.baseurl}}https://github.com/lauraleonhardt/SmartHome-App-demo.github.oi/blob/master/AR.png)
 
 
 ## Supported Control devices
