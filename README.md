@@ -6,6 +6,8 @@
 
 ![Screen2](https://www.qivicon.com/assets/Products/_resampled/SetSize500500-2018-QIVICON-Home-Base-2.0.png)
 
+[Screen3](images/AR.png)
+
 ## Supported Control devices
 ## The App
 * Device pairing
